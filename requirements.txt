@@ -1,0 +1,3 @@
+pip install ultralytics opencv-python numpy torch torchvision torchaudio
+pip install pyconfig
+pip install ollama
